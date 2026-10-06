@@ -52,7 +52,7 @@ export function About() {
           <div className="inline-block px-3 py-1 text-xs font-semibold tracking-wider text-teal-700 dark:text-amber-300 bg-teal-50 dark:bg-amber-400/10 rounded-full mb-3">
             BACKGROUND &amp; CAPABILITIES
           </div>
-          <h2 className="text-3xl sm:text-4xl font-bold font-space text-[#0B192C] dark:text-[#F8F9FA]">
+          <h2 className="text-3xl sm:text-4xl font-bold font-space text-[#0B192C] dark:text-[#F8F9FA] inline-block underline decoration-teal-600 dark:decoration-amber-400 decoration-[3px] underline-offset-8">
             About Me
           </h2>
           <p className="mt-3 text-base sm:text-lg text-gray-600 dark:text-gray-400">
@@ -153,7 +153,7 @@ export function About() {
 
         {/* Strengths Grid */}
         <div className="pt-6">
-          <h3 className="text-xl font-bold font-space text-[#0B192C] dark:text-[#F8F9FA] mb-6">
+          <h3 className="text-xl font-bold font-space text-[#0B192C] dark:text-[#F8F9FA] mb-6 inline-block underline decoration-teal-600 dark:decoration-amber-400 decoration-2 underline-offset-6">
             Core Strengths &amp; Engineering Approach
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

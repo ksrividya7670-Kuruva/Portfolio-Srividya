@@ -73,7 +73,7 @@ export function Contact() {
           <div className="inline-block px-3 py-1 text-xs font-semibold tracking-wider text-teal-700 dark:text-amber-300 bg-teal-50 dark:bg-amber-400/10 rounded-full mb-3">
             GET IN TOUCH
           </div>
-          <h2 className="text-3xl sm:text-4xl font-bold font-space text-[#0B192C] dark:text-[#F8F9FA]">
+          <h2 className="text-3xl sm:text-4xl font-bold font-space text-[#0B192C] dark:text-[#F8F9FA] inline-block underline decoration-teal-600 dark:decoration-amber-400 decoration-[3px] underline-offset-8">
             Contact &amp; Placement Inquiries
           </h2>
           <p className="mt-3 text-base text-gray-600 dark:text-gray-400">
